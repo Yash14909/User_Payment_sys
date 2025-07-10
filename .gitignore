@@ -1,0 +1,29 @@
+
+### 🛡️ `.gitignore`
+
+```gitignore
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Eclipse / VS Code / IntelliJ project files
+*.iml
+.idea/
+*.iws
+*.ipr
+*.bak
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build
+/out/
+bin/
+
+# Temporary files
+*~
