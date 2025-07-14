@@ -26,7 +26,7 @@ class SilverUser extends User
     System.out.println("Silver User receive Method ");
 }
 }
-public class Fourth {
+public class Payment {
 
   public static void main(String [] args)
   {
